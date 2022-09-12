@@ -1,0 +1,20 @@
+{
+  "name": "curso-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaVega/curso-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaVega/curso-frontend/issues"
+  },
+  "homepage": "https://github.com/RafaVega/curso-frontend#readme"
+}
